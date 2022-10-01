@@ -1,9 +1,10 @@
 
-### My Web3 week 3 Task: A smart contract that records the database of a student
+## My Web3 week 3 Task: A smart contract that records the database of a student
 #### The following can be done, 
 
 -  You can register a student & can filter a record via id
 
+### Answer to theory Questions:
 Question 1
 Difference between a View and a Pure Function
 
